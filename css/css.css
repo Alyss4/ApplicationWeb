@@ -1,0 +1,128 @@
+/*
+content rules
+*/
+.content-rules{
+  margin-right: 10%;
+  margin-left: 10%;
+}
+/* nav bar */
+.logonavbar{
+  width: 4vh;
+  margin-right: 1%;
+  margin-left: 2%;
+}
+.main-content {
+    margin-top: 6rem
+}
+  
+.custom-imgreservation {
+    max-height: 20%
+}
+
+body {
+    background-image: url(../images/backgroundmimi.jpg); 
+    background-repeat: round;
+}
+.text-noir {
+  color: black; 
+}
+.btn-text-color {
+  margin-top: 10%;
+  background-color : transparent;
+  color: #7696c9;
+  border : none;
+}
+
+.card-text{
+    color: #ffffff;
+}
+div.mx-3.mb-3 i {
+  color: white;
+}
+
+/* Card onclick du logement */
+div.text-center h1 , h3{
+  color: white;
+}
+
+div.text-center img{
+  margin-top: 2%;
+  border: 2px solid #00000036;;
+}
+.card-body-reserv {
+  flex: 1 1 auto;
+  padding: 1rem 1rem;
+  box-shadow: 0 0 50px #00000054;
+  text-align: center;
+}
+.title-reserv{
+  text-shadow: 0 0 17px rgb(255 255 255 / 80%);
+  color: #ffffff85;
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  margin-bottom: 5%;
+}
+.btnreserv{
+  margin-top: 2%;
+}
+
+.title-reserv ~ p {
+  color: white;
+}
+
+.footer-text {
+  color: #ffffff30;
+}
+
+.footer-link {
+  color: #ffffff30;
+  text-decoration: none;
+}
+
+.footerdiv{
+  justify-content: center;
+}
+
+.content-confidentialite{
+  padding: 5%;
+}
+.content-confidentialite h2{
+  color: #FFD700;
+  text-align: center;
+  margin-bottom: 2%;
+}
+.content-confidentialite h2 + p{
+  color: white;
+  margin-bottom: 4%;
+}
+.content-confidentialite h3{
+  color: #8FBC8F;
+  margin-bottom: 2%;
+}
+.content-confidentialite h3 + p{
+  color: #F5F5DC;
+}
+.content-confidentialite ul{
+  color:#F5F5DC;
+}
+.content-confidentialite ul + p {
+  color : #F5F5DC;
+}
+.content-confidentialite p + p {
+  color : #F5F5DC;
+}
+.content-confi{
+  margin-bottom: 2%;
+}
+/* Annonces */
+
+.title-annonce{
+  color:#FFD700;;
+}
+.ref-annonce{
+  color: white;
+}
+.accueil-card{
+  text-align: center;
+}
